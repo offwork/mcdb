@@ -135,5 +135,8 @@
       }
     }
   },
-  "defaultProject": "mcdb"
+  "defaultProject": "mcdb",
+  "cli": {
+    "defaultCollection": "@ngxs/schematics"
+  }
 }
