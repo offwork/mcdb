@@ -1,0 +1,9 @@
+{
+  "api": {
+    "baseUrl": "/api"
+  },
+  "paths": {
+    "imagesRoot": "/assets/images/"
+  },
+  "debuging": true
+}
